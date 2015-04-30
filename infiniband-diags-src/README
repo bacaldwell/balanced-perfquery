@@ -1,0 +1,5 @@
+These source files are based off of infiniband-diags-1.6.4 part of OFED 3.12.
+http://downloads.openfabrics.org/OFED/ofed-3.12-1/
+
+They will need to be diff'd to create a patch for then applying to other
+versions
